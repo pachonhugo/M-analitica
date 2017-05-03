@@ -11,4 +11,11 @@ package javaapplication5;
  */
 public class Histograma {
     
+    Pixel[][] miImagen= new Pixel[5][5];
+    int [] R= new int[256];
+    int [] G= new int[256];
+    int [] B= new int[256];
+            
+    
+    
 }
