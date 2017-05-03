@@ -15,7 +15,26 @@ public class Histograma {
     int [] R= new int[256];
     int [] G= new int[256];
     int [] B= new int[256];
+    int canal;
             
-    
+    void crearHistograma(){
+        
+        int n,m;
+        for(n=0;n<256;n++){
+            for(m=0;m<256;m++){
+                switch(canal){
+                    case 0:{
+                        
+                    }
+                    case 1:{
+                        
+                    }
+                    case 2:{
+                        
+                    }
+                }
+            }
+        }
+    }
     
 }
